@@ -1,0 +1,2 @@
+# Prediction-of-champagne-sales-by-using-ARIMA-model-
+Champagne is a generic term for French sparkling wine.This alcoholic drink is produced from specific types of grapes grown in the Champagne region following rules that demand, among other things, specific vineyard practices, sourcing of grapes exclusively from designated places within the Champagne region. The main of this project is to create an ARIMA model of time series which can predict feature sales
